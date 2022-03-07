@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Oop7">
+      <UniqueIdentifier>{cb9d216d-3083-4000-894b-8726400ffc46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice">
+      <UniqueIdentifier>{c70507a8-fd56-48d8-9b03-19b8af8b0fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Oop">
+      <UniqueIdentifier>{feb5d834-bad5-40bf-acb6-b58716b20150}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cppPracitce2.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="cppPractice.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="cppPractice3.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="cppPractice4.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="cppPractice5.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop2.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop3.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop4.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop5.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Oop6.cpp">
+      <Filter>소스 파일\Oop</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClCompile>
+    <ClCompile Include="cppPractice6.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccountHandler.h">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClInclude>
+    <ClInclude Include="deefine.h">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClInclude>
+    <ClInclude Include="DonateAccount.h">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditAccount.h">
+      <Filter>소스 파일\Oop7</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
